@@ -18,6 +18,6 @@
 #ifndef libpq_shim_h
 #define libpq_shim_h
 
-#import <libpq-fe.h>
+#import </usr/local/include/libpq-fe.h>
 
 #endif
